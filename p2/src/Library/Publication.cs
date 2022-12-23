@@ -35,7 +35,6 @@ namespace Ucu.Poo.Defense
         }
         public string AsText()
         {
-            //Obtener el texto de la publicación para mostrar
 
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("Publicación");
